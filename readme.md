@@ -9,7 +9,7 @@ En esta sección se explica brevemente el propósito del proyecto, las herramien
 ```javascript
 
 function sumar(a, b) {
-    return a + b;
+    return a - b;
 }
 
 ```
